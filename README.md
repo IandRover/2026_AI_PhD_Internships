@@ -1,6 +1,6 @@
 # PhD AI/ML Internships 2026 🚀
 
-A curated list of PhD-level AI/ML research internships for Summer 2026. Perfect for doctoral students looking to gain industry experience in cutting-edge AI research.
+A non-exhausted curated list of PhD-level AI/ML research internships for Summer 2026. Perfect for doctoral students looking to gain industry experience in cutting-edge AI research.
 
 ## Available Positions
 
@@ -20,3 +20,4 @@ A curated list of PhD-level AI/ML research internships for Summer 2026. Perfect 
 **Note:** Application deadlines and requirements may vary. Always check the official job postings for the most current information.
 
 Good luck with your applications! 🎯
+Let me know if you find info not listed here!
