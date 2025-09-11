@@ -15,7 +15,7 @@ A non-exhausted curated list of PhD-level AI/ML research internships for Summer 
 | **AbbVie** | AI/ML Bioinformatics Intern | Bioinformatics & Healthcare AI | [Apply Here](https://careers.abbvie.com/en/job/2026-ai-ml-bioinformatics-intern-phd-in-north-chicago-il-jid-19312) |
 | **Google** | Research Intern, PhD | General AI Research | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026) |
 | **Meta** | Various PhD Internships | Multiple AI/ML Teams | [Browse Positions](https://www.metacareers.com/jobs?teams[0]=Internship%20-%20PhD) |
-| **Microsoft** | Research Intern, PhD | Multimodal Learning | [Apply Here](https://jobs.careers.microsoft.com/global/en/share/1864887/ | 
+| **Microsoft** | Research Intern, PhD | Multimodal Learning | [Apply Here](https://jobs.careers.microsoft.com/global/en/share/1864887/) | 
 
 **Last Updated:** September 11, 2025  
 **Note:** Application deadlines and requirements may vary. Always check the official job postings for the most current information.
