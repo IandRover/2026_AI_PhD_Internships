@@ -16,7 +16,8 @@ A non-exhausted curated list of PhD-level AI/ML research internships for Summer 
 | **Google** | Research Intern, PhD | General AI Research | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026) |
 | **Meta** | Various PhD Internships | Multiple AI/ML Teams | [Browse Positions](https://www.metacareers.com/jobs?teams[0]=Internship%20-%20PhD) |
 | **Microsoft** | Research Intern, PhD | Multimodal Learning | [Apply Here](https://jobs.careers.microsoft.com/global/en/share/1864887/) | 
-| **Scale AI** | Research Intern, PhD | Machine Learning | [Apply Here]([https://jobs.careers.microsoft.com/global/en/share/1864887/](https://job-boards.greenhouse.io/scaleai/jobs/4606060005?gh_src=acad35425us)) | 
+| **Scale AI** | Research Intern, PhD | Machine Learning | [Apply Here](https://job-boards.greenhouse.io/scaleai/jobs/4606060005?gh_src=acad35425us) | 
+| **Sony AI** | Research Intern, PhD | Machine Learning | [Apply Here](https://ai.sony/joinus/job-roles/Research_Intern_Vision_Foundation_Model/) | 
 
 
 
